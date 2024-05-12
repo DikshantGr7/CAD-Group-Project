@@ -3,7 +3,7 @@ from wordcloud import WordCloud
 import pandas as pd
 from collections import Counter
 import emoji
-# Pandas library used for data manipulation with data structure like dataframe
+# Pandas library used for data manipulation with data structure like dataframe.
 #It provide a quick overview of the most common words in dataset(Word cloud)
 extract = URLExtract()
 
